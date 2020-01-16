@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="TestJava:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3690c3ca-1367-4bce-a61f-64b40a175dc4" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/GetMoney.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="91" column="37" lean-forward="true" selection-start-line="91" selection-start-column="37" selection-end-line="91" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#326#327#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JText.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="50" column="53" selection-start-line="50" selection-start-column="53" selection-end-line="50" selection-end-column="53" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2125#2126#0" expanded="true" />
+                <element signature="e#2154#2155#0" expanded="true" />
+                <element signature="e#4072#4073#0" expanded="true" />
+                <element signature="e#4111#4112#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>0.0005</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/ss.java" />
+        <option value="$PROJECT_DIR$/src/JText.java" />
+        <option value="$PROJECT_DIR$/src/GetMoney.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="126" />
+    <option name="y" value="111" />
+    <option name="width" value="1752" />
+    <option name="height" value="2112" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TestJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestJava" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestJava" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestJava" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestJava" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+              <item name="TestJava_jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="GetMoney" type="1a9f42e2:ClassTreeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\che\code\TestJava\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.JText">
+    <configuration name="GetMoney" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GetMoney" />
+      <module name="TestJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JText" />
+      <module name="TestJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="TestJava" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JText" />
+        <item itemvalue="Application.GetMoney" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3690c3ca-1367-4bce-a61f-64b40a175dc4" name="Default Changelist" comment="" />
+      <created>1574062177131</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574062177131</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="2575" height="1415" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26187626" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4982036" visible="true" weight="0.3298969" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4986028" weight="0.3996828" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3298969" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4994012" weight="0.3298969" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5013972" side_tool="true" weight="0.3996828" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.36161777" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26187626" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4982036" weight="0.3298969" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.4986028" visible="true" weight="0.3996828" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3298969" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4994012" weight="0.3298969" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5013972" side_tool="true" visible="true" weight="0.3996828" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.36161777" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout-to-restore>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/JText.java</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>days* lilv.doubleValue()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>lilv.doubleValue()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>lixiPanelJTF.getText()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
+          <folding>
+            <element signature="e#64#65#0" expanded="true" />
+            <element signature="e#117#118#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-13.0.2/lib/src.zip!/java.base/java/text/ParseException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="50" column="6" selection-start-line="50" selection-start-column="6" selection-end-line="50" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-13.0.2/lib/src.zip!/java.desktop/java/awt/LayoutManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-465">
+          <caret line="42" column="17" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-13.0.2/lib/src.zip!/java.desktop/javax/swing/JPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="93" column="22" lean-forward="true" selection-start-line="93" selection-start-column="22" selection-end-line="93" selection-end-column="22" />
+          <folding>
+            <element signature="e#2454#2455#0" expanded="true" />
+            <element signature="e#2488#2489#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-13.0.2/lib/src.zip!/java.desktop/javax/swing/JLabel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="231" column="11" selection-start-line="231" selection-start-column="11" selection-end-line="231" selection-end-column="11" />
+          <folding>
+            <element signature="e#7508#7509#0" expanded="true" />
+            <element signature="e#7547#7548#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-13.0.2/lib/src.zip!/java.desktop/java/awt/Component.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="2320" column="20" selection-start-line="2320" selection-start-column="13" selection-end-line="2320" selection-end-column="20" />
+          <folding>
+            <element signature="e#79492#79493#0" expanded="true" />
+            <element signature="e#79536#79537#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-13.0.2/lib/src.zip!/java.desktop/javax/swing/text/JTextComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="1724" column="16" selection-start-line="1724" selection-start-column="16" selection-end-line="1724" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-13.0.2/lib/src.zip!/java.base/java/text/Format.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="156" column="24" selection-start-line="156" selection-start-column="24" selection-end-line="156" selection-end-column="24" />
+          <folding>
+            <element signature="e#5554#5555#0" expanded="true" />
+            <element signature="e#5641#5642#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JText.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="50" column="53" selection-start-line="50" selection-start-column="53" selection-end-line="50" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2125#2126#0" expanded="true" />
+            <element signature="e#2154#2155#0" expanded="true" />
+            <element signature="e#4072#4073#0" expanded="true" />
+            <element signature="e#4111#4112#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GetMoney.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="91" column="37" lean-forward="true" selection-start-line="91" selection-start-column="37" selection-end-line="91" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>TestJava:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>jdk-13.0.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>TestJava</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
